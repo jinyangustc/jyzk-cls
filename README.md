@@ -114,7 +114,7 @@ Create a new note with the following template:
 \notedate{Create time}
 \begin{document}
 
-Your note goes there.
+Your note goes here.
 
 % \seealso \zl{}
 \end{document}

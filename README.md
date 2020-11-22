@@ -1,4 +1,4 @@
-# Simple Zettelkasten Setup in Latex
+# Simple Zettelkasten Setup in LaTex
 
 A quick introduction of Zettelkasten can be found on
 [Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten). For a more in-depth

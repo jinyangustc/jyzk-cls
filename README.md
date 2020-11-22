@@ -25,7 +25,7 @@ You can find many good advice online on how to start with plain text files and a
 text editor for Zettelkasten. Markdown is a popular choice of file format due to
 its simplicity and potential to be converted to other formats through software
 such as `pandoc`. However, in my field, research papers are mostly typeset in
-LaTex and I would to reuse my notes when writing. With sufficient configuration
+LaTex and I would like to reuse my notes when writing. With sufficient configuration
 and plugins you may make Markdown work nicely with LaTex. But I decided to skip
 the hassle and directly note in LaTex.
 

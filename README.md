@@ -158,13 +158,10 @@ A snippet that allows you type `nz` (new zettel) to insert the template:
 
 ### Notes
 
-Index card:
 ![Index](images/0index.png)
 
-Note 1:
 ![1](images/1.png)
 
-Note 1a:
 ![1a](images/1a.png)
 
 ### Links

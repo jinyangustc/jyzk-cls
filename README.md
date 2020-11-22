@@ -63,7 +63,7 @@ relies on LaTex of course).
 1. Notes are taken in LaTex and reside in one folder.
 2. Reviewing and traversing notes are done in PDFs which can be easily compiled
    from LaTex sources with `latexmk`, or other compiler with a build script.
-3. PDFs need to be in a same folder because `href` links are linked to PDFs in
+3. PDFs need to be in the same folder because `href` links are linked to PDFs in
    the current directory. For example, in note `1.pdf` a link to note `1a.pdf`
    will be `\href{file:1a.pdf}{1a}`.
 4. A bibliography file named `zotero_library.bib` resides in the same folder as

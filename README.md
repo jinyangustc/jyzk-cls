@@ -149,7 +149,7 @@ A snippet that allows you type `nz` (new zettel) to insert the template:
 ### Zotero
 
 1. Install [Better BibTex](https://retorque.re/zotero-better-bibtex/) plugin.
-2. Export your Zotero library in BibTex format and select `Keep Updated`. Your `zotero_library.bib` file will in sync with Zotero. Future
+2. Export your Zotero library in BibTex format and select `Keep Updated`. Your `zotero_library.bib` file will be in sync with Zotero. Future
    changes you make to the Zotero will also be synced to the `bib` file.
 
 ![Export Zotero library to the bibfile](images/better-bibtex-export.png)

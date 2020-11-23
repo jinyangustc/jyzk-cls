@@ -49,7 +49,7 @@ a slip box, then you have a physical Zettelkasten system, which is pretty cool
 (although may not be useful).
 
 File naming and linking are done manually because, if I understand the idea
-correctly, they should be a deliberate decisions from you when you review the
+correctly, they should be deliberate decisions from you when you review the
 notes, think about how they relate to your writing, develop ideas, arguments and
 discussions. It's simpler, more portable and software-agnostic (well, it still
 relies on LaTex of course).

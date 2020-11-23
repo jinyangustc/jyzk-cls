@@ -79,7 +79,7 @@ Put the `jyzk.cls` file in your note source directory.
 
 Or put `jyzk.cls` to your local `texmf` directory.
 
-## Provided commands
+## Commands provided by the class
 
 `\zl{n}`: creates a new link to the PDF file `n.pdf`.
 

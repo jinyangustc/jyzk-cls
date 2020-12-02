@@ -65,6 +65,9 @@
 \RequirePackage{enumitem}
 \setlist{nosep}
 
+% Verbatim and code
+\RequirePackage[outputdir=slipbox,cache=false]{minted}
+
 % Use small skip to indicate paragraphs instead of indentation
 \setlength\parindent{0pt}
 \setlength{\parskip}{0.5em}

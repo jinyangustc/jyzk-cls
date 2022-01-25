@@ -79,6 +79,14 @@ Put the `jyzk.cls` file in your note source directory.
 
 Or put `jyzk.cls` to your local `texmf` directory.
 
+On mac:
+
+```bash
+mkdir -p ~/Library/texmf/tex
+cd ~/Library/texmf/tex
+git clone git@github.com:jinyangustc/jyzk-cls.git
+```
+
 ## Commands provided by the class
 
 `\zl{n}`: creates a new link to the PDF file `n.pdf`.
